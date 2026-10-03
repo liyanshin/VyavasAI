@@ -1,0 +1,7 @@
+{
+  "name": "VyavasAI - Voice OS for Kirana",
+  "description": "Voice-first agentic operating system for Indian MSME kirana shop owners in Marathi, Tamil, Hindi, and English.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
